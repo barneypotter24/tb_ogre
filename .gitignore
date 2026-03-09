@@ -1,1 +1,7 @@
-data/
+**/pass/
+**/.snakemake/
+**/annotations/
+**/.ipynb_checkpoints/
+
+*.fastq
+data/h37Rv.gb

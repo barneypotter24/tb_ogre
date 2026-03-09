@@ -1,0 +1,46 @@
+{
+  "title": "TEST",
+  "basecalledPath": "pass",
+  "samples": [
+    {
+      "name": "SAMPLE1",
+      "description": "",
+      "barcodes": [ "NB01" ]
+    },
+    {
+      "name": "SAMPLE2",
+      "description": "",
+      "barcodes": [ "NB02" ]
+    },
+    {
+      "name": "SAMPLE3",
+      "description": "",
+      "barcodes": [ "NB03" ]
+    },
+    {
+      "name": "SAMPLE4",
+      "description": "",
+      "barcodes": [ "NB04" ]
+    },
+    {
+      "name": "SAMPLE5",
+      "description": "",
+      "barcodes": [ "NB05" ]
+    },
+    {
+      "name": "SAMPLE6",
+      "description": "",
+      "barcodes": [ "NB06" ]
+    },
+    {
+      "name": "SAMPLE7",
+      "description": "",
+      "barcodes": [ "NB07" ]
+    },
+    {
+      "name": "Negative Control",
+      "description": "",
+      "barcodes": [ "NB08" ]
+    }
+  ]
+}
