@@ -4,4 +4,5 @@
 **/.ipynb_checkpoints/
 
 *.fastq
-data/h37Rv.gb
+*.zip
+*.gz
