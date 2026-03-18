@@ -1,0 +1,126 @@
+{
+  "title": "Moldova TB-Seq 2026 Run 2",
+  "basecalledPath": "path/to/fastqs",
+  "samples": [
+    {
+      "name": "Yale_MDTB009",
+      "description": "",
+      "barcodes": [ "NB01" ]
+    },
+    {
+      "name": "Yale_MDTB010",
+      "description": "",
+      "barcodes": [ "NB02" ]
+    },
+    {
+      "name": "Yale_MDTB011",
+      "description": "",
+      "barcodes": [ "NB03" ]
+    },
+    {
+      "name": "Yale_MDTB012",
+      "description": "",
+      "barcodes": [ "NB04" ]
+    },
+    {
+      "name": "Yale_MDTB013",
+      "description": "",
+      "barcodes": [ "NB05" ]
+    },
+    {
+      "name": "Yale_MDTB014",
+      "description": "",
+      "barcodes": [ "NB06" ]
+    },
+    {
+      "name": "Yale_MDTB015",
+      "description": "",
+      "barcodes": [ "NB07" ]
+    },
+    {
+      "name": "Yale_MDTB016",
+      "description": "",
+      "barcodes": [ "NB08" ]
+    },
+    {
+      "name": "Yale_MDTB017",
+      "description": "",
+      "barcodes": [ "NB09" ]
+    },
+    {
+      "name": "Yale_MDTB018",
+      "description": "",
+      "barcodes": [ "NB10" ]
+    },
+    {
+      "name": "Yale_MDTB019",
+      "description": "",
+      "barcodes": [ "NB11" ]
+    },
+    {
+      "name": "Yale_MDTB020",
+      "description": "",
+      "barcodes": [ "NB12" ]
+    },
+    {
+      "name": "Yale_MDTB021",
+      "description": "",
+      "barcodes": [ "NB13" ]
+    },
+    {
+      "name": "Yale_MDTB022",
+      "description": "",
+      "barcodes": [ "NB14" ]
+    },
+    {
+      "name": "Yale_MDTB023",
+      "description": "",
+      "barcodes": [ "NB15" ]
+    },
+    {
+      "name": "Yale_MDTB024",
+      "description": "",
+      "barcodes": [ "NB16" ]
+    },
+    {
+      "name": "Yale_MDTB025",
+      "description": "",
+      "barcodes": [ "NB17" ]
+    },
+    {
+      "name": "Yale_MDTB026",
+      "description": "",
+      "barcodes": [ "NB18" ]
+    },
+    {
+      "name": "Yale_MDTB027",
+      "description": "",
+      "barcodes": [ "NB19" ]
+    },
+    {
+      "name": "Yale_MDTB028",
+      "description": "",
+      "barcodes": [ "NB20" ]
+    },
+    {
+      "name": "Yale_MDTB029",
+      "description": "",
+      "barcodes": [ "NB21" ]
+    },
+    {
+      "name": "Yale_MDTB030",
+      "description": "",
+      "barcodes": [ "NB22" ]
+    },
+    {
+      "name": "Yale_MDTB031",
+      "description": "",
+      "barcodes": [ "NB23" ]
+    },
+    {
+      "name": "Yale_MDTB032",
+      "description": "",
+      "barcodes": [ "NB24" ]
+    }
+  ]
+}
