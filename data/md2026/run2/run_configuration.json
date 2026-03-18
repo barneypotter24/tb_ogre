@@ -1,6 +1,6 @@
 {
   "title": "Moldova TB-Seq 2026 Run 2",
-  "basecalledPath": "path/to/fastqs",
+  "basecalledPath": "fastq_pass",
   "samples": [
     {
       "name": "Yale_MDTB009",
