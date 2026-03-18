@@ -1,6 +1,6 @@
 {
   "title": "TEST",
-  "basecalledPath": "pass",
+  "basecalledPath": "fake_fq",
   "samples": [
     {
       "name": "SAMPLE1",
